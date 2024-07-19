@@ -65,6 +65,17 @@ cm_linear: Confusion matrix for Linear Kernel
 cm_poly: Confusion matrix for Polynomial Kernel
 cm_sig: Confusion matrix for Sigmoid Kernel
 
+![Screenshot 2024-07-18 173557](https://github.com/user-attachments/assets/67eee90a-3a9f-4b18-a9ad-a0870133528c)
+
+![Screenshot 2024-07-18 173656](https://github.com/user-attachments/assets/72892870-c0a7-4460-a86d-13eba106b749)
+
+![Screenshot 2024-07-18 173753](https://github.com/user-attachments/assets/2380667a-3711-4b98-b475-d6b75f832072)
+
+![Screenshot 2024-07-18 173823](https://github.com/user-attachments/assets/371093d7-1571-4b6a-ac4e-57603a292680)
+
+![Screenshot 2024-07-18 173613](https://github.com/user-attachments/assets/a66caea1-f4b6-406e-94bf-19ef085e059b)
+
+
 # Conclusion
 This project showcases the application of Support Vector Classifier (SVC) with various kernels to classify iris flowers based on their measurements. The model performance is evaluated using confusion matrices.
 
