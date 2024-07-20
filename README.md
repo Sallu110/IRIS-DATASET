@@ -3,7 +3,7 @@
 # Support Vector Classifier (SVC) for Iris Flower Classification
 This project uses Support Vector Classifier (SVC) to classify iris flowers into different species based on their measurements.
 
-# steps of project
+# "steps of project"
 Introduction
 Model Training
 Evaluation
