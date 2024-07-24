@@ -5,7 +5,7 @@ This project uses Support Vector Classifier (SVC) to classify iris flowers into 
 
 ## Steps of project
 
-1 .Introduction
+1. Introduction
 2. Data preprocessing
 3. Model Training
 4. Model Evaluation
