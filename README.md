@@ -65,13 +65,14 @@ Y_predict_sig = svc_sig.predict(X_test)
 cm_sig = confusion_matrix(Y_test, Y_predict_sig)
 ```
 ### Model Evaluation
+``` python
 Confusion Matrix: Evaluate the performance of each SVC model using confusion matrices:
 cm_rbf01: Confusion matrix for RBF Kernel with gamma=1.0
 cm_rbf10: Confusion matrix for RBF Kernel with gamma=10.0
 cm_linear: Confusion matrix for Linear Kernel
 cm_poly: Confusion matrix for Polynomial Kernel
 cm_sig: Confusion matrix for Sigmoid Kernel
-
+```
 ### Results
 
 ![Screenshot 2024-07-18 173557](https://github.com/user-attachments/assets/67eee90a-3a9f-4b18-a9ad-a0870133528c)
